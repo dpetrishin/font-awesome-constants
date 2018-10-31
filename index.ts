@@ -1,1 +1,1 @@
-export { default } from './src/FontAwesomeIcons';  
+export * from './src/FontAwesomeConstants';  

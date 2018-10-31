@@ -1,4 +1,4 @@
-enum FontAwesomeIcons {
+export enum FontAwesomeConstants {
   Com="com",
   Fa="fa",
   Fas="fas",
@@ -1280,5 +1280,3 @@ enum FontAwesomeIcons {
   SrOnly="sr-only",
   SrOnlyFocusable="sr-only-focusable",
 }
-
-export default FontAwesomeIcons;
