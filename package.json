@@ -1,0 +1,25 @@
+{
+  "name": "font-awesome-constants",
+  "version": "1.0.0",
+  "description": "Typescript enum for using font-awesome icons without hardcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overfed/font-awesome-constants.git"
+  },
+  "keywords": [
+    "typescript",
+    "font-awesome",
+    "constants",
+    "enum"
+  ],
+  "author": "Dmitry Petrishin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overfed/font-awesome-constants/issues"
+  },
+  "homepage": "https://github.com/overfed/font-awesome-constants#readme"
+}
